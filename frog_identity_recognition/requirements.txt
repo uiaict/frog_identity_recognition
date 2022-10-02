@@ -1,0 +1,9 @@
+seaborn
+tqdm
+datasets
+numpy
+pandas
+matplotlib
+opencv-python
+jupyter
+cython

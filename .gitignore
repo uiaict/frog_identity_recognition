@@ -1,0 +1,14 @@
+.idea/
+.directory
+**/frog_photos
+**/match_samples
+**/old
+**/weights/checkpoints
+**/events.out*
+*.pb
+*.json.gz
+data/
+pelophylax_lessonae
+
+**/mask_rcnn_coco.h5
+**/mask_rcnn_balloon.h5
